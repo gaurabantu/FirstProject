@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Viotic</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+    <string name="cough_pro">
+      <![CDATA[
+           <strong>Description</strong><br></br>
+           <p>About Benadryl Syrup 150 ml</p>
+            <p>Benadryl Syrup 150 ml belongs to a class of medication called ‘antihistamine’ (anti-allergic) primarily used to treat allergic symptoms (like sneezing, watery eyes, runny nose, itchy nose/throat), common cold symptoms, and cough. An allergy is an immune system response to foreign elements typically not harmful to your body. These foreign elements are known as ‘allergens.’ It is also used to induce sleep, treat Parkinsons disease, and relieve cough caused by minor throat or airway irritation.</p>
+            <strong>Uses of Benadryl Syrup 150 ml</strong><br></br>
+            <p>Common cold, Allergies, Cough</p>
+             <strong>Key Ingredients</strong><br></br>
+             <p>12.5 Mg Of Diphenhydramine Hydrochloride And 125 Mg Of Ammonium Chloride.</p>
+            <strong>Side Effects of Benadryl Syrup 150 ml</strong><br></br>
+            <p>Sleepiness,Impaired coordination,Stomach pain,Dizziness,Thickened mucus secretions </p>
+
+      ]]>
+    </string>
+
+
+</resources>
